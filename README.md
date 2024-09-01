@@ -7,9 +7,9 @@ I'm not an expert, just an enthusiast, who does all the work alone in free time.
 
 # 🧪 Projects
 ## 📘 Kool Tech Wiki (RU)
-- Website: https://kooltechtricks.neocities.org
-- RSS: https://kooltechtricks.neocities.org/wiki/index.xml
-- Source texts of all pages: https://github.com/KoolTechTricks/pages
+- Website: https://kooltechtricks.org
+- RSS: https://kooltechtricks.org/wiki/index.xml
+- Source texts of all pages: https://github.com/KoolTechTricks/content
 
 Kool Tech Wiki is a free resource, where you can find information for using useful software. There you can learn about new niche apps, alternatives to popular services, solutions for annoying problems and much more.
 
